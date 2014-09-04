@@ -1,0 +1,50 @@
+Place 0, 0, North
+Move
+             Move
+Report
+Place 0,0,East
+Move
+Move
+Report
+Place    0, 0,       South
+Left
+Move
+Report
+Place 0,0,West
+Left
+Right
+Report
+Place 0, 0, East
+Right
+Right
+Report
+Place 0, 1, South
+Move
+Move
+Report
+
+
+
+Place 0, 2, North
+Move
+Move
+Report
+Place 4, 2, North
+Move
+Left
+Report
+Place   0 , 0, North
+Move
+Move
+Report
+Place  2, 2, West
+Move
+Move
+Report
+Place  1, 3, South
+Move
+Move
+Report
+Place  0, 5, East
+Move
+Report
